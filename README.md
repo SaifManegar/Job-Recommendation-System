@@ -1,2 +1,2 @@
-# Resume-Screening
-Resume Screening App using Python
+# Job Recommendation System
+Job Recommendation System using Python
